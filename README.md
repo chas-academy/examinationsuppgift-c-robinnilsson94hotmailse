@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/b8b366ed-cfb9-4ce1-b6c2-0da78337fa22
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/G22Vs7Up)
 # 🎓 Examination - Elevhanteringssystem
