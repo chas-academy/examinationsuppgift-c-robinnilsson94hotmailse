@@ -91,9 +91,7 @@ Din kod rättas i steg. Även om du har småfel (t.ex. fel stor bokstav) kan du 
 Förutom koden ska du spela in en kort skärminspelning där du demonstrerar din lösning.
 
 1.  Spela in när du visar din lösning och berättar om hur den fungerar.
-2.  Döp filen till exakt: `
-https://github.com/user-attachments/assets/fd47c782-a6aa-4d48-9495-13a3369536ff
-`.
+2.  Döp filen till exakt: "videoprov.mp4"
 3.  Lägg filen i rotmappen (samma ställe som denna README).
 4.  **OBS:** Filen får inte vara större än 100MB.
 
